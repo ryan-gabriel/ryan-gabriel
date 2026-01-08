@@ -40,8 +40,8 @@ Software Engineer specializing in **Decoupled Architectures** and **B2B SaaS Aut
 
 ### 📉 GitHub Ecosystem
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan-gabriel&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=4b5563" alt="Ryan's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-gabriel&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=4b5563" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-gabriel&show_icons=true&theme=tokyonight&hide_border=true" alt="Ryan's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-gabriel&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
