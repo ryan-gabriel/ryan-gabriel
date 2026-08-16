@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-ryangabrielsiringoringo-4F3130?style=flat-square&logo=linkedin&logoColor=F5B841" alt="LinkedIn">
   </a>
   <a href="https://ryan-gabriel.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ryan-gabriel.vercel.app-4F3130?style=flat-square&logo=react&logoColor=F5B841" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-ryan--gabriel.vercel.app-4F3130?style=flat-square&logo=react&logoColor=F5B841" alt="Portfolio">
   </a>
   <a href="https://www.leetcode.com/ryan-gabriel">
-    <img src="https://img.shields.io/badge/LeetCode-ryan-gabriel-4F3130?style=flat-square&logo=leetcode&logoColor=F5B841" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-ryan--gabriel-4F3130?style=flat-square&logo=leetcode&logoColor=F5B841" alt="LeetCode">
   </a>
   <a href="mailto:ryangs112233@gmail.com">
     <img src="https://img.shields.io/badge/Email-ryangs112233@gmail.com-4F3130?style=flat-square&logo=gmail&logoColor=F5B841" alt="Email">
